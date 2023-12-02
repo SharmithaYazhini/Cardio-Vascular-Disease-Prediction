@@ -38,11 +38,14 @@ Link to the dataset: https://www.kaggle.com/datasets/sulianova/cardiovascular-di
 
 The algorithm used in this project is the *CatBoostClassifier*, a gradient-boosting algorithm optimized for categorical features. 
 
+Various classifier algorithms, including Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes, ADA Boost, and CatBoost were also implemented. 
+Finally decided on CatBoostClassifier due to its high accuracy. (Refer mvp.py for detailed work)
+
 The model is trained to predict the presence or absence of cardiovascular disease based on input features.
 
 # Tools Used:
 
-Streamlit: Used for creating the interactive web app.
+Streamlit: Used for creating the interactive web app. (app.py)
 
 CatBoost: Implemented for building the predictive model.
 
