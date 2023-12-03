@@ -26,14 +26,8 @@ st.markdown(
             background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
             background-size: cover;
         }
-        .st-bk {
-            background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and opacity */
-            padding: 1em;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
         .color-text {
-            color: #FF5733; /* Change to your desired color */
+            color: red; /* Change to your desired color */
         }
     </style>
     """,
