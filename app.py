@@ -23,7 +23,7 @@ st.markdown(
     """
     <style>
         body {
-            background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3b6u46udi9ohd.cloudfront.net%2Fwp-content%2Fuploads%2F2023%2F02%2F21110317%2FCardiovascular-health.jpg&tbnid=ozOKS_OsvIZnUM&vet=12ahUKEwjc4ZS47vGCAxWxgIQIHSzSB3gQMygCegQIARBg..i&imgrefurl=https%3A%2F%2Fwww.medanta.org%2Fpatient-education-blog%2Fcheck-out-successful-ways-to-boost-your-cardiovascular-health&docid=jc1JJxvQrJdyrM&w=1000&h=667&q=cardio%20health&ved=2ahUKEwjc4ZS47vGCAxWxgIQIHSzSB3gQMygCegQIARBg");
+            background-image: url(""https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3b6u46udi9ohd.cloudfront.net%2Fwp-content%2Fuploads%2F2023%2F02%2F21110317%2FCardiovascular-health.jpg&tbnid=ozOKS_OsvIZnUM&vet=12ahUKEwjc4ZS47vGCAxWxgIQIHSzSB3gQMygCegQIARBg..i&imgrefurl=https%3A%2F%2Fwww.medanta.org%2Fpatient-education-blog%2Fcheck-out-successful-ways-to-boost-your-cardiovascular-health&docid=jc1JJxvQrJdyrM&w=1000&h=667&q=cardio%20health&ved=2ahUKEwjc4ZS47vGCAxWxgIQIHSzSB3gQMygCegQIARBg.jpg");
             background-size: cover;
         }
         .st-bk {
