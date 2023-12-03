@@ -35,10 +35,6 @@ st.markdown(
             color: #FF5733; /* Title color */
         }
         
-        .stButton {
-            background-color: #4CAF50; /* Button background color */
-            color: white; /* Button text color */
-        }
         .stSidebar {
             background-color: #2C3E50; /* Sidebar background color */
             color: #ffffff; /* Sidebar text color */
