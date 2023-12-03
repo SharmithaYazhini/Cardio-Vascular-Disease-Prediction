@@ -14,7 +14,7 @@ def predict_cardiovascular_disease(input_data):
     return prediction[0]
 
 st.set_page_config(
-    page_title="Cardiovascular Disease Prediction App",
+    page_title="Car",
     page_icon="❤️",
     layout="wide"
 )
