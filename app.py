@@ -23,7 +23,7 @@ st.markdown(
     """
     <style>
         body {
-            background-image: url("https://github.com/SharmithaYazhini/Cardio-Vascular-Disease-Prediction/blob/main/c1.jpg");
+            background-image: url("https://raw.githubusercontent.com/SharmithaYazhini/Cardio-Vascular-Disease-Prediction/main/c1.jpg");
         }
         .st-bk {
             background-color: #ffffff;
