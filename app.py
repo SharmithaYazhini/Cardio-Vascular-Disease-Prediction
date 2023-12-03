@@ -27,7 +27,7 @@ st.markdown(
             background-size: cover;
         }
         .st-bk {
-            background-color: #ffffff;
+            background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and opacity */
             padding: 1em;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,6 +39,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 
 
 st.title("Cardiovascular Disease Prediction App")
